@@ -1,0 +1,32 @@
+[
+    {
+        "Name": "Aryan",
+        "Marks": {
+            "Maths": 80,
+            "Chemistry": 90,
+            "Physics": 79
+        },
+        "Average": 83,
+        "Grade": "B"
+    },
+    {
+        "Name": "Avni",
+        "Marks": {
+            "Maths": 80,
+            "Chemistry": 60,
+            "Physics": 80
+        },
+        "Average": 73,
+        "Grade": "C"
+    },
+    {
+        "Name": "Sam",
+        "Marks": {
+            "Maths": 90,
+            "Chemistry": 98,
+            "Physics": 97
+        },
+        "Average": 95,
+        "Grade": "A"
+    }
+]
